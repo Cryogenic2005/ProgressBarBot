@@ -28,5 +28,5 @@ BOT_TOKEN=your-bot-token
 
 Start the bot by running:
 ```bash
-node bot.js
+node ./bot/bot.js
 ```
